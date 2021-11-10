@@ -8,6 +8,9 @@ Simple project with ability to reorder restaurant menu positions - both in back-
 
 Adminpanel is generated with Laravel generator: [QuickAdminPanel.com](https://quickadminpanel.com)
 
+## Error 
+#Error imagick missing from your system - 
+sudo apt-get install php-imagick
 
 ## How to use
 
